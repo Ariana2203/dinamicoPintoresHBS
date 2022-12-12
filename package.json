@@ -4,7 +4,7 @@
   "description": "sitio web dinamico con express",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-hbs": "^2.3.3",
     "hbs": "^4.1.1"
   },
